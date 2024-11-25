@@ -1,6 +1,3 @@
-# Memory_Game
-
-
 # Memory Game
 
 A fun and interactive memory game built using Java Swing! The game challenges players to match pairs of tiles on a grid before the timer runs out. It supports multiple difficulty levels and includes features like scoring, hints, and sound effects.
